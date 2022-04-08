@@ -18,7 +18,8 @@ class SearchScreenTests: BaseTest {
     override func tearDown() {
         super.tearDown()
     }
-    func test_SearchScreenText () {
+    
+    func test_SearchScreenText() {
         
         XCTAssertTrue(
             overviewScreen
@@ -26,6 +27,13 @@ class SearchScreenTests: BaseTest {
                 .checkSearchScreenText()
         )
         
+    }
+    func test_SearchBarExists() {
+        XCTAssertTrue(
+            overviewScreen
+                .tapSearchButtonNav()
+                .checkSearchBar()
+        )
     }
     
 }

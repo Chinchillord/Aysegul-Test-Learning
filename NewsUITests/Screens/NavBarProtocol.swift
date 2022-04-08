@@ -10,15 +10,45 @@ import Foundation
 import XCTest
 
 protocol HasNavBar {
-    var app: XCUIApplication {get set}
+}
+
+extension HasNavBar {
     
-    var overViewButtonNav: XCUIElement {get set}
-    var searchButtonNav : XCUIElement {get set}
-    var listButtonNav : XCUIElement {get set}
-    var favoritesButtonNav : XCUIElement {get set}
+    var app : XCUIApplication {
+        XCUIApplication()
+    }
     
-    func tapOverviewButtonNav() -> OverviewScreen
-    func tapSearchButtonNav() -> SearchScreen
-    func tapListButtonNav() -> SourcesScreen
-    func tapFavoritesButtonNav() -> FavoritesScreen
+    
+    var overViewButtonNav: XCUIElement {
+        app.buttons["Globe"]
+    }
+    var searchButtonNav : XCUIElement {
+        app.buttons["Search"]
+    }
+    var listButtonNav : XCUIElement {
+        app.buttons["List"]
+    }
+    var favoritesButtonNav : XCUIElement {
+        app.buttons["Love"]
+    }
+    
+    func tapOverviewButtonNav() -> OverviewScreen  {
+        searchButtonNav.tap()
+        return OverviewScreen()
+    }
+    
+    func tapSearchButtonNav() -> SearchScreen  {
+        searchButtonNav.tap()
+        return SearchScreen()
+    }
+    
+    func tapListButtonNav() -> SourcesScreen {
+        listButtonNav.tap()
+        return SourcesScreen()
+    }
+    
+    func tapFavoritesButtonNav() -> FavoritesScreen {
+        favoritesButtonNav.tap()
+        return FavoritesScreen()
+    }
 }

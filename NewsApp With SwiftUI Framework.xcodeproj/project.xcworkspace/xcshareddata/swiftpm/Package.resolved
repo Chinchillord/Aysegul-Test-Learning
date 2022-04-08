@@ -1,16 +1,23 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "Kingfisher",
-        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
-        "state": {
-          "branch": null,
-          "revision": "55591508c3c429cc8f048c5c12dd1cd46e66b41b",
-          "version": "5.13.0"
-        }
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "55591508c3c429cc8f048c5c12dd1cd46e66b41b",
+        "version" : "5.13.0"
       }
-    ]
-  },
-  "version": 1
+    },
+    {
+      "identity" : "wiremockclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mobileforming/WiremockClient",
+      "state" : {
+        "revision" : "aea0b210e4ccc264e193b3706463cdc4f68592ec",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
 }

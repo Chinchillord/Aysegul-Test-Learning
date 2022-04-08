@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3304197C2809EE3C00EA3E4A /* WiremockClient in Frameworks */ = {isa = PBXBuildFile; productRef = 3304197B2809EE3C00EA3E4A /* WiremockClient */; };
+		3314E5BA2800B23900F7F709 /* WiremockClient in Frameworks */ = {isa = PBXBuildFile; productRef = 3314E5B92800B23900F7F709 /* WiremockClient */; };
+		3314E5BD2800B75000F7F709 /* top_headlines.json in Resources */ = {isa = PBXBuildFile; fileRef = 3314E5BC2800B75000F7F709 /* top_headlines.json */; };
 		3325397327CEC42600190A7D /* BusinessCategoryScreenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3325397227CEC42600190A7D /* BusinessCategoryScreenTests.swift */; };
 		332D0B7227C97A46001F1CFC /* OverviewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332D0B7127C97A46001F1CFC /* OverviewScreen.swift */; };
 		332D0B7427C97AC4001F1CFC /* BusinessCategoryScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332D0B7327C97AC4001F1CFC /* BusinessCategoryScreen.swift */; };
@@ -17,6 +20,7 @@
 		3346692B27E4CD99005324F2 /* FavoritesScreenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3346692A27E4CD99005324F2 /* FavoritesScreenTests.swift */; };
 		3346692D27E502BE005324F2 /* BaseScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3346692C27E502BE005324F2 /* BaseScreen.swift */; };
 		3346692F27E504D6005324F2 /* NavBarProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3346692E27E504D6005324F2 /* NavBarProtocol.swift */; };
+		334D63F827F2358400CE9B20 /* SearchBarProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 334D63F727F2358400CE9B20 /* SearchBarProtocol.swift */; };
 		337724C227EE2894001C3C1B /* SearchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337724C127EE2894001C3C1B /* SearchScreen.swift */; };
 		337724C427EE2924001C3C1B /* SearchScreenTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 337724C327EE2924001C3C1B /* SearchScreenTest.swift */; };
 		339DB94427C02B2B000F52DB /* BaseTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 339DB94327C02B2B000F52DB /* BaseTest.swift */; };
@@ -95,6 +99,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3314E5BC2800B75000F7F709 /* top_headlines.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = top_headlines.json; sourceTree = "<group>"; };
 		3325397227CEC42600190A7D /* BusinessCategoryScreenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessCategoryScreenTests.swift; sourceTree = "<group>"; };
 		332D0B7127C97A46001F1CFC /* OverviewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverviewScreen.swift; sourceTree = "<group>"; };
 		332D0B7327C97AC4001F1CFC /* BusinessCategoryScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessCategoryScreen.swift; sourceTree = "<group>"; };
@@ -105,6 +110,7 @@
 		3346692A27E4CD99005324F2 /* FavoritesScreenTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesScreenTests.swift; sourceTree = "<group>"; };
 		3346692C27E502BE005324F2 /* BaseScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseScreen.swift; sourceTree = "<group>"; };
 		3346692E27E504D6005324F2 /* NavBarProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarProtocol.swift; sourceTree = "<group>"; };
+		334D63F727F2358400CE9B20 /* SearchBarProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarProtocol.swift; sourceTree = "<group>"; };
 		337724C127EE2894001C3C1B /* SearchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreen.swift; sourceTree = "<group>"; };
 		337724C327EE2924001C3C1B /* SearchScreenTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenTest.swift; sourceTree = "<group>"; };
 		339DB94127C02B2B000F52DB /* NewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -179,6 +185,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3304197C2809EE3C00EA3E4A /* WiremockClient in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,6 +194,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E645BA4A23BB241E007B9C48 /* Kingfisher in Frameworks */,
+				3314E5BA2800B23900F7F709 /* WiremockClient in Frameworks */,
 				E645BA4823BB241E007B9C48 /* KingfisherSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -194,6 +202,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3304197A2809EE3C00EA3E4A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3314E5BB2800B68500F7F709 /* Mock Files */ = {
+			isa = PBXGroup;
+			children = (
+				3314E5BC2800B75000F7F709 /* top_headlines.json */,
+			);
+			path = "Mock Files";
+			sourceTree = "<group>";
+		};
 		332D0B6F27C979B3001F1CFC /* Screens */ = {
 			isa = PBXGroup;
 			children = (
@@ -204,6 +227,7 @@
 				3346692C27E502BE005324F2 /* BaseScreen.swift */,
 				3346692E27E504D6005324F2 /* NavBarProtocol.swift */,
 				337724C127EE2894001C3C1B /* SearchScreen.swift */,
+				334D63F727F2358400CE9B20 /* SearchBarProtocol.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -232,6 +256,7 @@
 		339DB94227C02B2B000F52DB /* NewsUITests */ = {
 			isa = PBXGroup;
 			children = (
+				3314E5BB2800B68500F7F709 /* Mock Files */,
 				332D0B7027C979E7001F1CFC /* Tests */,
 				332D0B6F27C979B3001F1CFC /* Screens */,
 			);
@@ -301,6 +326,7 @@
 				AB9001A122B4E084002C45C6 /* NewsApp With SwiftUI Framework */,
 				339DB94227C02B2B000F52DB /* NewsUITests */,
 				AB9001A022B4E084002C45C6 /* Products */,
+				3304197A2809EE3C00EA3E4A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -517,6 +543,9 @@
 				339DB94827C02B2B000F52DB /* PBXTargetDependency */,
 			);
 			name = NewsUITests;
+			packageProductDependencies = (
+				3304197B2809EE3C00EA3E4A /* WiremockClient */,
+			);
 			productName = NewsUITests;
 			productReference = 339DB94127C02B2B000F52DB /* NewsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
@@ -537,6 +566,7 @@
 			packageProductDependencies = (
 				E645BA4723BB241E007B9C48 /* KingfisherSwiftUI */,
 				E645BA4923BB241E007B9C48 /* Kingfisher */,
+				3314E5B92800B23900F7F709 /* WiremockClient */,
 			);
 			productName = "NewsApp With SwiftUI Framework";
 			productReference = AB90019F22B4E084002C45C6 /* News.app */;
@@ -573,6 +603,7 @@
 			mainGroup = AB90019622B4E084002C45C6;
 			packageReferences = (
 				E645BA4623BB241E007B9C48 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				3314E5B82800B23900F7F709 /* XCRemoteSwiftPackageReference "WiremockClient" */,
 			);
 			productRefGroup = AB9001A022B4E084002C45C6 /* Products */;
 			projectDirPath = "";
@@ -589,6 +620,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3314E5BD2800B75000F7F709 /* top_headlines.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -611,6 +643,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3346692B27E4CD99005324F2 /* FavoritesScreenTests.swift in Sources */,
+				334D63F827F2358400CE9B20 /* SearchBarProtocol.swift in Sources */,
 				3346692527E4BC2E005324F2 /* SourcesScreen.swift in Sources */,
 				3346692927E4CBCB005324F2 /* FavoritesScreen.swift in Sources */,
 				3346692F27E504D6005324F2 /* NavBarProtocol.swift in Sources */,
@@ -955,6 +988,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		3314E5B82800B23900F7F709 /* XCRemoteSwiftPackageReference "WiremockClient" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/mobileforming/WiremockClient";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
 		E645BA4623BB241E007B9C48 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
@@ -966,6 +1007,16 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		3304197B2809EE3C00EA3E4A /* WiremockClient */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3314E5B82800B23900F7F709 /* XCRemoteSwiftPackageReference "WiremockClient" */;
+			productName = WiremockClient;
+		};
+		3314E5B92800B23900F7F709 /* WiremockClient */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 3314E5B82800B23900F7F709 /* XCRemoteSwiftPackageReference "WiremockClient" */;
+			productName = WiremockClient;
+		};
 		E645BA4723BB241E007B9C48 /* KingfisherSwiftUI */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = E645BA4623BB241E007B9C48 /* XCRemoteSwiftPackageReference "Kingfisher" */;

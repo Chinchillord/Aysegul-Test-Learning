@@ -9,10 +9,10 @@
 import Foundation
 import XCTest
 
-class SearchScreen : BaseScreen {
+class SearchScreen : BaseScreen, HasNavBar, HasSearchBar {
    
     
-    lazy var searchScreenText = app.staticTexts["Search"]
+    lazy var searchScreenText = self.app.staticTexts["Search"]
     
     func checkSearchScreenText () -> Bool {
         return searchScreenText.waitForExistence(timeout: 5)

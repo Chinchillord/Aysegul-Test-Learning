@@ -7,12 +7,24 @@
 //
 
 import XCTest
+import WiremockClient
 
 class BaseTest: XCTestCase {
     let app = XCUIApplication()
    
     override func setUp() {
         continueAfterFailure = false
+        do {
+            try WiremockClient.postMapping(stubMapping:
+            StubMapping.stubFor(requestMethod: .ANY, urlMatchCondition: .urlEqualTo, url: "http://localhost:8080/top-headlines?country=US")
+                .willReturn(
+                    ResponseDefinition()
+                        .withLocalJsonBodyFile("top_headlines.json", in: Bundle(for: type(of: self)))
+            )
+            )
+        } catch {
+            XCTFail()
+        }
         app.launch()
     }
 

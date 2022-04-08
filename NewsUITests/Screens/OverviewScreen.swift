@@ -18,7 +18,7 @@ import XCTest
    Button, 0x7f9a1621eca0, {{314.0, 762.0}, {74.0, 48.0}}, label: 'Partly Cloudy'
  */
 
-class OverviewScreen : BaseScreen {
+class OverviewScreen : HasNavBar {
    
     
     lazy var overviewText = app.staticTexts["Overview"]
