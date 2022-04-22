@@ -16,6 +16,7 @@ class SourcesScreen : BaseScreen {  // class name starts Uppercase
     lazy var sourcesScreenText = app.staticTexts["Sources"]
     
     func checkSourcesText () -> Bool {
+        sleep(10)
         return sourcesScreenText.waitForExistence(timeout: 5)
         
     }

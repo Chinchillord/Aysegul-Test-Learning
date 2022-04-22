@@ -23,6 +23,8 @@ class OverviewScreen : HasNavBar {
     
     lazy var overviewText = app.staticTexts["Overview"]
     lazy  var businessCategoryButton = app.buttons["Business"]
+    lazy var entertainmentCategoryButton = app.buttons["Entertainment"]
+    lazy var generalCategoryButton = app.buttons["General"]
     
     func checkOverviewText () -> Bool {
         return overviewText.waitForExistence(timeout: 10)
@@ -30,10 +32,23 @@ class OverviewScreen : HasNavBar {
     
     func tapBusinessCategoryButton () -> BusinessCategoryScreen {
         businessCategoryButton.tap()
+        sleep(10)
         return BusinessCategoryScreen()
     }
+    func tapEntertainmentCategoryButton () -> EntertainmentCategoryScreen {
+        entertainmentCategoryButton.tap()
+        sleep(10)
+        return EntertainmentCategoryScreen()
+    }
+    
+    func tapGeneralCategoryButton () -> GeneralCategoryScreen {
+        generalCategoryButton.tap()
+        sleep(10)
+        return GeneralCategoryScreen()
+    }
+    
+    
 }
-    
-    
+
  
 

@@ -1,0 +1,244 @@
+{
+    "status": "ok",
+    "totalResults": 377,
+    "articles": [{
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Tim De Chant",
+        "title": "Nissan, NASA aim to ditch rare, pricey metals in solid-state batteries",
+        "description": "Partnership to use computational materials science to speed development.",
+        "url": "https://arstechnica.com/cars/2022/04/nissan-nasa-aim-to-ditch-rare-pricey-metals-in-solid-state-batteries/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Nissan-battery-development-computer-760x380.jpg",
+        "publishedAt": "2022-04-08T17:39:19Z",
+        "content": "Enlarge/ Nissan is hoping that it can use computational materials science to find new battery materials faster.\r\n1 with 1 posters participating\r\nNissan is partnering with NASA on a computational appr… [+3213 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Kyle Orland",
+        "title": "Bandai Namco sends Ms. Pac-Man down the memory hole",
+        "description": "Pac-Land re-release includes \"Pac-Mom\" in place of the legally disputed \"Miss.\"",
+        "url": "https://arstechnica.com/gaming/2022/04/bandai-namco-sends-ms-pac-man-down-the-memory-hole/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/pacland2-760x380.jpeg",
+        "publishedAt": "2022-04-08T17:20:14Z",
+        "content": "Enlarge/ Who's that Pac-lady in the pink hat, and what has she done with Ms. Pac-Man?\r\n6 with 6 posters participating\r\nObsessive Pac-fans of a certain age may remember Ms. Pac-Man's cameo appearance … [+2411 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Ron Amadeo",
+        "title": "Google Maps brings traffic-light and stop-sign icons to navigation",
+        "description": "Dramatically more detailed maps are coming to the navigation mode.",
+        "url": "https://arstechnica.com/gadgets/2022/04/google-maps-brings-traffic-light-and-stop-sign-icons-to-navigation/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1208999514-760x380.jpg",
+        "publishedAt": "2022-04-08T16:39:34Z",
+        "content": "12 with 12 posters participating\r\nLook at all those details! Maps will show traffic lights, stop signs, and building outlines in navigation mode.\r\nIt might be hard to believe, but there are still som… [+1883 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Andrew Cunningham",
+        "title": "Raspberry Pi OS axes longstanding default user account in the name of security",
+        "description": "Change could break some software that uses hardcoded directory names.",
+        "url": "https://arstechnica.com/gadgets/2022/04/raspberry-pi-os-axes-longstanding-default-user-account-in-the-name-of-security/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/newwiz-760x380.png",
+        "publishedAt": "2022-04-08T15:34:36Z",
+        "content": "Enlarge/ The Pi OS is getting a new setup wizard to help it shed its old username.\r\n1 with 1 posters participating\r\nSince its launch, the Raspberry Pi OS (and most operating systems based on it) has … [+3280 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Sam Machkovech",
+        "title": "Roberta and Ken Williams open up about their first video game in 25 years",
+        "description": "No fear of Colossal failure: \"If this game sinks, it ain't gonna change our life at all.\"",
+        "url": "https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/roberta-ken-williams-listing-760x380.png",
+        "publishedAt": "2022-04-08T15:01:20Z",
+        "content": "Enlarge/ Roberta Williams and Ken Williams at the 2022 Game Developers Conference.\r\n7 with 7 posters participating\r\nSAN FRANCISCOLegendary game programmer Ken Williams needed only a moment to chew on… [+3855 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Eric Berger",
+        "title": "The Axiom-1 crew launches today—are these guys tourists, astronauts, or what?",
+        "description": "The reality is that the crew of Ax-1 is something new.",
+        "url": "https://arstechnica.com/science/2022/04/the-axiom-1-crew-launches-today-are-these-guys-tourists-astronauts-or-what/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/51989697949_b43e0e7073_k-760x380.jpg",
+        "publishedAt": "2022-04-08T12:31:33Z",
+        "content": "Enlarge/ The Axiom-1 mission will fly on the fifth mission of this Falcon 9 rocket first stage.\r\n9 with 8 posters participating\r\nA crew of four private citizens is scheduled to launch to the Internat… [+4369 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jonathan M. Gitlin",
+        "title": "Elon Musk says Cybertruck will happen in 2023 at Texas plant opening",
+        "description": "Tesla's CEO also promised the Semi and Roadster will arrive next year.",
+        "url": "https://arstechnica.com/cars/2022/04/elon-musk-says-cybertruck-will-happen-in-2023-at-texas-plant-opening/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1183828094-760x380.jpg",
+        "publishedAt": "2022-04-08T12:13:56Z",
+        "content": "Enlarge/ Tesla's Cybertruck at its 2019 unveiling in California.\r\n16 with 16 posters participating, including story author\r\nTesla opened its massive new factory in Texas on Thursday night. The event … [+2035 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Eric Berger",
+        "title": "Rocket Report: NASA buys a SpinLaunch, Space Force brass visits Starbase",
+        "description": "\"It’s an amazing facility that gives you a lot of ideas of what the future could be.\"",
+        "url": "https://arstechnica.com/science/2022/04/rocket-report-nasa-buys-a-spinlaunch-space-force-brass-visits-starbase/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Jt8I1XSs-760x380.jpeg",
+        "publishedAt": "2022-04-08T11:30:06Z",
+        "content": "Enlarge/ SpaceX's Falcon 9 rocket and the Endeavour spacecraft await the Axiom-1 crew launch on Friday.\r\n1 with 1 posters participating\r\nWelcome to Edition 4.38 of the Rocket Report! We're already in… [+6260 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Dan Goodin",
+        "title": "Ransomware sent North Carolina A&T University scrambling to restore services",
+        "description": "ALPHV/Black Cat ransomware group has claimed at least 3 victims so far.",
+        "url": "https://arstechnica.com/information-technology/2022/04/ransomware-sent-north-carolina-at-university-scrambling-to-restore-services/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ransom-note-760x380.jpeg",
+        "publishedAt": "2022-04-08T00:10:10Z",
+        "content": "0 with 0 posters participating\r\nNorth Carolina A&amp;T State University, the largest historically black college in the US, University was recently struck by a ransomware Group called ALPHV, sending u… [+3398 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jennifer Ouellette",
+        "title": "Russian Doll S2 trailer is a trippy time-traveling delight",
+        "description": "\"The universe finally found something worse than death. I broke time.\"",
+        "url": "https://arstechnica.com/gaming/2022/04/russian-doll-s2-trailer-is-a-trippy-time-traveling-delight/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/doll2-760x380.jpg",
+        "publishedAt": "2022-04-07T21:06:58Z",
+        "content": "2 with 2 posters participating\r\nNatasha Lyonne and Charlie Barnett (return for the upcoming second season of the Netflix series, Russian Doll.\r\nA mysterious portal through time opens up in the New Yo… [+3721 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Samuel Axon",
+        "title": "Apple’s iWork 12.0 adds new features to Pages, Numbers, and Keynote",
+        "description": "The most notable addition is new Shortcuts support in iWork apps on macOS.",
+        "url": "https://arstechnica.com/gadgets/2022/04/apples-iwork-12-0-adds-new-features-to-pages-numbers-and-keynote/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Pages-760x380.png",
+        "publishedAt": "2022-04-07T20:45:07Z",
+        "content": "0 with 0 posters participating\r\nOn Thursday, Apple released its first feature updates for the iWork suite in several months: Pages, Keynote, and Numbers 12.0.\r\nThere are new versions of all three app… [+2977 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Kiona N. Smith",
+        "title": "A tsunami wiped out ancient communities in the Atacama Desert 3,800 years ago",
+        "description": "Life in the Atacama took 2,000 years to return to normal.",
+        "url": "https://arstechnica.com/science/2022/04/a-tsunami-wiped-out-ancient-communities-the-atacama-desert-3800-years-ago/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/zapatero-760x380.png",
+        "publishedAt": "2022-04-07T20:29:17Z",
+        "content": "1 with 1 posters participating\r\nA recent study of geological deposits and archaeological remains has identified a massive earthquake and tsunami that wiped out communities along the coastline of Chil… [+6774 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jon Brodkin",
+        "title": "Facebook says Ukraine military accounts were hacked to post calls for surrender",
+        "description": "Facebook said it blocked sharing of \"videos calling on the Army to surrender.\"",
+        "url": "https://arstechnica.com/tech-policy/2022/04/facebook-says-ukraine-military-accounts-were-hacked-to-post-calls-for-surrender/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-ukraine-soldiers-760x380.jpg",
+        "publishedAt": "2022-04-07T19:49:47Z",
+        "content": "Enlarge/ Ukrainian soldiers sit on an armored military vehicle in Sievierodonetsk on April 7, 2022, amid Russia's invasion of Ukraine.\r\n4 with 4 posters participating\r\nFacebook today reported an incr… [+2928 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Beth Mole",
+        "title": "After maskless schmoozing, DC elite hit with COVID outbreak",
+        "description": "Several events have been linked to the outbreak as people let down their guard.",
+        "url": "https://arstechnica.com/science/2022/04/after-maskless-schmoozing-dc-elite-hit-with-covid-outbreak/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1239794144-760x380.jpeg",
+        "publishedAt": "2022-04-07T19:19:00Z",
+        "content": "Enlarge/ US House Speaker Nancy Pelosi in the State Dining Room of the White House in Washington, DC, on Wednesday, April 6, 2022.\r\n10 with 10 posters participating\r\nA growing number of high-ranking … [+5083 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "John Timmer",
+        "title": "Big triceratops was healing a hole in its head",
+        "description": "Hole in its large headplate may have come from combat with a fellow triceratops.",
+        "url": "https://arstechnica.com/science/2022/04/big-triceratops-was-healing-a-hole-in-its-head/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/Image-3.image-jpeg-760x380.jpeg",
+        "publishedAt": "2022-04-07T19:04:18Z",
+        "content": "5 with 5 posters participating\r\nIt's difficult to tell which feature of the triceratops is more striking: the two large horns that jut from its forehead or the large frill that extends out from the b… [+3865 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Andrew Cunningham",
+        "title": "Things aren’t “back to normal” yet, but GPU prices are steadily falling",
+        "description": "You still can't find things for MSRP, but prices are way down from their peaks.",
+        "url": "https://arstechnica.com/gadgets/2022/04/things-arent-back-to-normal-yet-but-gpu-prices-are-steadily-falling/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/IMG_1568-760x380.jpg",
+        "publishedAt": "2022-04-07T18:44:39Z",
+        "content": "Enlarge/ The RTX 3080 Ti.\r\n7 with 7 posters participating\r\nGraphics card prices remain hugely inflated compared to where they were a few years ago, but the good news is that things finally, consisten… [+3314 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jennifer Ouellette",
+        "title": "Higher W boson mass hints at chinks in Standard Model’s armor",
+        "description": "It's big news if this holds up to scrutiny, but other physicists advise \"immense caution.\"",
+        "url": "https://arstechnica.com/science/2022/04/higher-w-boson-mass-hints-at-chinks-in-standard-models-armor/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/boson5CROP-B-760x380.jpg",
+        "publishedAt": "2022-04-07T18:01:52Z",
+        "content": "Enlarge/ Illustration of a candidate event for a W boson decaying into one muon and one neutrino from proton-proton collisions, recorded by the Large Hadron Collider's ATLAS detector in 2018. \r\n12 wi… [+5192 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Ron Amadeo",
+        "title": "Google will soon hide neglected apps in the Play Store",
+        "description": "Starting in November, apps that haven't been updated in two years will be hidden.",
+        "url": "https://arstechnica.com/gadgets/2022/04/google-will-soon-hide-neglected-apps-in-the-play-store/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/https_2F2Fblueprint-api-production.s3.amazonaws.com2Fuploads2Fcard2Fimage2F4755122F5adce45e-8f78-4802-86af-a0b1d4f17139-760x380.jpg",
+        "publishedAt": "2022-04-07T17:41:36Z",
+        "content": "4 with 4 posters participating\r\nGoogle Play is moving forward in its war on old, un-updated apps. The Play Store has had a rolling minimum level for Android version support for a while now; developer… [+3404 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Kyle Orland",
+        "title": "Axie Infinity raises $150M to help reimburse hacked user funds",
+        "description": "Dev promises enhanced security, launches free-to-play NFT-free version.",
+        "url": "https://arstechnica.com/gaming/2022/04/axie-infinity-raises-150m-to-help-reimburse-hacked-user-funds/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/axieorigin-760x380.png",
+        "publishedAt": "2022-04-07T17:15:15Z",
+        "content": "Enlarge/ New funds to replace Sky Mavis' hacked funds are... in the cards.\r\n14 with 11 posters participating\r\nSky Mavis, the developer of non-fungible token-based game Axie Infinity, announced Wednes… [+2945 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Timothy B. Lee",
+        "title": "Apple defies Russian government, restores opposition voting app",
+        "description": "Apple and Google removed the app last September, days before a key election.",
+        "url": "https://arstechnica.com/tech-policy/2022/04/apple-defies-russian-government-restores-opposition-voting-app/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1235291316-760x380.jpg",
+        "publishedAt": "2022-04-07T16:44:28Z",
+        "content": "Enlarge/ Jailed Kremlin critic Alexei Navalny's \"Smart Voting\" app.\r\n1 with 1 posters participating\r\nApple has restored an app sponsored by Alexei Navalny, a prominent leader of Russia's political op… [+2864 chars]"
+    }]
