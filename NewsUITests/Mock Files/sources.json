@@ -200,8 +200,5 @@
         "category": "health",
         "language": "en",
         "country": "us"
-    }, {
-        "id": "msnbc",
-        "name": "MSNBC",
-        "description": "Breaking news and in-depth analysis of the headlines, as well as commentary and informed perspectives from The Rachel Maddow Show, Morning Joe & more.",
-        "url": "http://w...
+    }]
+}
