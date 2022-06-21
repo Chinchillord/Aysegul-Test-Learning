@@ -13,15 +13,11 @@ class OverviewScreenTests : BaseTest {
     
     var overviewScreen = OverviewScreen()
     
-    override func setUp() {
-        super.setUp()
-    }
-    
-    override func tearDown() {
-        super.tearDown()
-    }
-    
     func test_overViewScreenText () {
         XCTAssertTrue(overviewScreen.checkOverviewText())
+    }
+    
+    func test_overviewScreenHeadline() {
+        XCTAssertTrue(overviewScreen.checkOverviewHeadline())
     }
 }

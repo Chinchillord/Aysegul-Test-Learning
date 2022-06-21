@@ -25,5 +25,18 @@ class BusinessCategoryScreenTests : BaseTest {
                 .checkBusinessCategoryText() // boolean (true)
         )
     }
-    
+    func test_BusinessCategorySourceText() {
+        XCTAssertTrue(
+            overviewScreen //overview screen
+                .tapBusinessCategoryButton() // business category screen
+                .checkBusinessCategorySourceText() // boolean (true)
+        )
+    }
+    func test_BusinessCategoryFoxBusinessHeadlinerText() {
+        XCTAssertTrue(
+            overviewScreen //overview screen
+                .tapBusinessCategoryButton() // business category screen
+                .checkBusinessCategoryFoxBusinessHeadliner() // boolean (true)
+        )
+    }
 }

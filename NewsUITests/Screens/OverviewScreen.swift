@@ -25,9 +25,14 @@ class OverviewScreen : HasNavBar {
     lazy  var businessCategoryButton = app.buttons["Business"]
     lazy var entertainmentCategoryButton = app.buttons["Entertainment"]
     lazy var generalCategoryButton = app.buttons["General"]
+    lazy var overviewHeadline = app.cells["The Detroit News, Jurors reach partial verdict in Whitmer kidnap plot case - Detroit News"]
     
     func checkOverviewText () -> Bool {
         return overviewText.waitForExistence(timeout: 10)
+    }
+    
+    func checkOverviewHeadline() -> Bool {
+        return overviewHeadline.waitForExistence(timeout: 10)
     }
     
     func tapBusinessCategoryButton () -> BusinessCategoryScreen {

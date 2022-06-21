@@ -25,5 +25,18 @@ class GeneralCategoryScreenTests : BaseTest {
                 .checkGeneralCategoryText() // boolean (true)
         )
     }
-    
+    func test_GeneralCategorySourceText() {
+        XCTAssertTrue(
+            overviewScreen //overview screen
+                .tapGeneralCategoryButton()// business category screen
+                .checkGeneralCategorySourceText() // boolean (true)
+        )
+    }
+    func test_GeneralCategoryDetroitNewsHeadliner() {
+        XCTAssertTrue(
+            overviewScreen //overview screen
+                .tapGeneralCategoryButton()// business category screen
+                .checkGeneralCategoryDetroitNewsHeadlinerText() // boolean (true)
+        )
+    }
 }

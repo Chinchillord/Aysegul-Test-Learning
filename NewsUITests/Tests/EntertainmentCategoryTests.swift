@@ -18,6 +18,7 @@ class EntertainmentCategoryScreenTests : BaseTest {
     override func tearDown() {
         super.tearDown()
     }
+    
     func test_EntertainmentCategoryScreenText() {
         XCTAssertTrue(
             overviewScreen //overview screen
@@ -26,4 +27,29 @@ class EntertainmentCategoryScreenTests : BaseTest {
         )
     }
     
+    func test_EntertainmentCategoryWWEHeadlinerText() {
+        XCTAssertTrue(overviewScreen
+            .tapEntertainmentCategoryButton()
+            .checkEntertainmentCategoryWWEHeadlinerText()
+        )
+    }
+    func test_EntertainmentCategorySourceText() {
+        XCTAssertTrue(overviewScreen
+            .tapEntertainmentCategoryButton()
+            .checkEntertainmentCategorySourceText()
+        )
+    }
+    func test_EntertainmentCategoryCNNHeadlinerText() {
+        XCTAssertTrue(overviewScreen
+            .tapEntertainmentCategoryButton()
+            .checkEntertainmentCategoryCNNHeadlinerText()
+        )
+    }
+    func test_EntertainmentCategorySourceText2() {
+        XCTAssertTrue(overviewScreen
+            .tapEntertainmentCategoryButton()
+            .checkEntertainmentCategorySourceText2()
+        )
+    }
 }
+

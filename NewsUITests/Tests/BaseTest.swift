@@ -10,7 +10,9 @@ import XCTest
 import WiremockClient
 
 class BaseTest: XCTestCase {
+    
     let app = XCUIApplication()
+
     
     private func setUpWiremockMapping(urlPath: String, queryParameter: String, queryParameterValue: String, fileName: String) {
         do {
@@ -51,6 +53,16 @@ class BaseTest: XCTestCase {
         setUpWiremockMapping(urlPath: "/everything", queryParameterOne: "language", queryParameterOneValue: "en", queryParameterTwo: "sources", queryParameterTwoValue: "ars-technica", fileName: "everything_ars_technica")
         
         app.launch()
+        addUIInterruptionMonitor(withDescription: "System Dialog") {
+                    (alert) -> Bool in
+
+                    let allowLocation = alert.buttons["Allow While Using App"]
+                    if allowLocation.waitForExistence(timeout: 10) {
+                        allowLocation.tap()
+                    }
+
+                    return true
+                }
     }
     
     override func tearDown() {
