@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+        "source": {
+            "id": null,
+            "name": "The Detroit News"
+        },
+        "author": "Robert Snell and Sarah Rahal, The Detroit News",
+        "title": "Jurors reach partial verdict in Whitmer kidnap plot case - Detroit News",
+        "description": "The partial verdict follows four weeks of testimony in federal court in what is considered the largest domestic terrorism case in recent U.S. history.",
+        "url": "https://www.detroitnews.com/story/news/local/michigan/2022/04/08/michigan-governor-whitmer-federal-kidnap-conspiracy-trial-verdict/9487618002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/04/PDTN/ed7f930c-66ae-489e-b4aa-751d5c9289ea-Whitmer_defendants_four_pack.jpg?auto=webp&crop=882,496,x58,y0&format=pjpg&width=1200",
+        "publishedAt": "2022-04-08T16:18:45Z",
+        "content": "Grand Rapids — Jurors said Friday they have reached a verdict on some counts in the case against four men accused of plotting to kidnap and hurt Michigan Gov. Gretchen Whitmer but are locked on other… [+3653 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Hannah Rabinowitz, CNN",
+        "title": "Member of Proud Boys leadership pleads guilty to US Capitol attack charges and will cooperate with prosecutors - CNN",
+        "description": "A leader of the Proud Boys pleaded guilty on Friday to two felony charges in one of the most prominent criminal cases against an organized far-right group that participated in the US Capitol attack on January 6, 2021.",
+        "url": "https://www.cnn.com/2022/04/08/politics/charles-donohoe-proud-boys/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211105100654-03-jan-6-riot-super-tease.jpg",
+        "publishedAt": "2022-04-08T16:17:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": null,
+        "title": "Macron hits out at 'racist' Le Pen as far-right candidate reaches all-time high in poll - Reuters.com",
+        "description": "French President Emmanuel Macron on Friday accused his far-right challenger Marine Le Pen of lying to voters about her \"racist\" platform, as the gap in voter support for the two political rivals narrows down ever more.",
+        "url": "https://www.reuters.com/world/europe/frances-macron-says-he-entered-presidential-race-later-than-he-wished-radio-2022-04-08/",
+        "urlToImage": "https://www.reuters.com/resizer/9W8EQk3DaU7r8S7w5LYCRp7q92Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MBOXX5QYGVPUXOLAOK26LIIXWE.jpg",
+        "publishedAt": "2022-04-08T15:48:00Z",
+        "content": "PARIS, April 8 (Reuters) - French President Emmanuel Macron on Friday accused his far-right challenger Marine Le Pen of lying to voters about her \"racist\" platform, as the gap in voter support for th… [+4410 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Jackie Wattles, CNN Business",
+        "title": "SpaceX just launched paying customers to the ISS. Here's everything you need to know - CNN",
+        "description": "A SpaceX rocket carrying three paying customers and a former NASA astronaut took off from Kennedy Space Center in Florida on Friday morning, kicking off a first-of-its-kind mission that will take the group on a 10-day mission to the International Space Statio…",
+        "url": "https://www.cnn.com/2022/04/08/tech/spacex-iss-launch-friday-scn/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220408111845-04-axiom-mission-ax-1-spacex-iss-launch-0408-screenshot-super-tease.jpg",
+        "publishedAt": "2022-04-08T15:47:00Z",
+        "content": "New York (CNN Business)A SpaceX rocket carrying three paying customers and a former NASA astronaut took off from Kennedy Space Center in Florida on Friday morning, kicking off a first-of-its-kind mis… [+7426 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Olga Voitovych, Nathan Hodge",
+        "title": "Dozens killed in train station missile strike in eastern Ukraine as civilians try to flee Russian onslaught - CNN",
+        "description": "At least 50 people, including five children, were killed after Russian forces carried out a missile strike on a railway station in Kramatorsk, eastern Ukraine, that was being used by civilians trying to flee the fighting, Ukrainian officials said Friday.",
+        "url": "https://www.cnn.com/2022/04/08/europe/kramatorsk-railway-station-strike-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220408103614-01-kramatorsk-station-attack-040822.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-04-08T15:28:00Z",
+        "content": "At least 50 people, including five children, were killed after Russian forces carried out a missile strike on a railway station in Kramatorsk, eastern Ukraine, that was being used by civilians trying… [+5498 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Sam Machkovech",
+        "title": "Roberta and Ken Williams open up about their first video game in 25 years - Ars Technica",
+        "description": "No fear of Colossal failure: \"If this game sinks, it ain't gonna change our life at all.\"",
+        "url": "https://arstechnica.com/gaming/2022/04/roberta-and-ken-williams-open-up-about-their-first-video-game-in-25-years/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/roberta-ken-williams-listing-760x380.png",
+        "publishedAt": "2022-04-08T15:01:20Z",
+        "content": "Enlarge/ Roberta Williams and Ken Williams at the 2022 Game Developers Conference.\r\n37 with 35 posters participating\r\nSAN FRANCISCOLegendary game programmer Ken Williams needed only a moment to chew … [+3852 chars]"
+    }, {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Nicole Sganga, Robert Legare",
+        "title": "Men accused of impersonating federal agents being investigated for possible ties to Iranian intelligence - CBS News",
+        "description": "The two men will remain in jail overnight pending a detention hearing Friday.",
+        "url": "https://www.cbsnews.com/news/secret-service-arian-taherzadeh-haider-ali-iranian-intelligence/",
+        "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/04/07/25095427-520a-4629-9269-1a16a2b6a5b6/thumbnail/1200x630/352e5645a6830f3e06b34fc7d7c88ee6/fbi-photos.jpg",
+        "publishedAt": "2022-04-08T15:00:00Z",
+        "content": "The two men accused of impersonating federal agents over the course of several years will remain in jail pending a detention hearing Friday, a federal magistrate judge ruled Thursday. \r\nInvestigators… [+8050 chars]"
+    }, {
+        "source": {
+            "id": "nfl-news",
+            "name": "NFL News"
+        },
+        "author": "Kevin Patra",
+        "title": "Tyrann Mathieu 'heartbroken' over leaving Chiefs after three seasons in Kansas City - NFL.com",
+        "description": "As Tyrann Mathieu looks for his next NFL team, the star safety laments his run being over in Kansas City after three seasons. Mathieu recently shared how much it stung that the Chiefs moved on.",
+        "url": "https://www.nfl.com/news/tyrann-mathieu-heartbroken-over-leaving-chiefs-after-three-seasons-in-kansas-cit",
+        "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/r3ih9bwul4bvnplaqssh",
+        "publishedAt": "2022-04-08T14:47:00Z",
+        "content": "As Tyrann Mathieu looks for his next NFL team, the star safety laments his run in Kansas City being over after three seasons.\r\nMathieu recently told Sam McDowell of the Kansas City Star in an exclusi… [+1552 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "Kyle Boone",
+        "title": "2022 Masters leaderboard: Live coverage, Tiger Woods score, golf scores today in Round 2 at Augusta National - CBS Sports",
+        "description": "Live scores, updates and highlights from the second round of the 86th Masters at Augusta National Golf Club",
+        "url": "https://www.cbssports.com/golf/news/2022-masters-leaderboard-live-coverage-tiger-woods-score-golf-scores-today-in-round-2-at-augusta-national/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/07/141aab6a-3ca9-42d2-9d46-6676e136ebb0/thumbnail/1200x675/18e0c0e2b6b09bca8b224f5cb5260184/masters-leaderboard-empty-2022-g.jpg",
+        "publishedAt": "2022-04-08T14:35:08Z",
+        "content": "AUGUSTA, Ga. -- A star-studded leaderboard and patron-filled course have the 2022 Masters already reaching a fever pitch as Round 2 action begins Friday. Sung-jae Im tops that board at 5 under after … [+1361 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Billboard"
+        },
+        "author": "Paul Grein",
+        "title": "The Weeknd & Doja Cat Lead 2022 Billboard Music Awards Finalists: Full List - Billboard",
+        "description": "Justin Bieber, Ye (formerly Kanye West) and Olivia Rodrigo are next up, with 13 nods each. BTS is the most-nominated group or duo.",
+        "url": "https://www.billboard.com/music/awards/2022-billboard-music-award-nominations-bbma-1235056949/",
+        "urlToImage": "https://www.billboard.com/wp-content/uploads/2022/04/doja-cat-weeknd-2021-billbaord-1548.png?w=1024",
+        "publishedAt": "2022-04-08T14:10:56Z",
+        "content": "The Weeknd is the top contender for the 2022 Billboard Music Awards, which NBC will broadcast live coast-to-coast on Sunday, May 15. The show will emanate from its usual home, the MGM Grand Garden Ar… [+12232 chars]"
+    }, {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Anna Hirtenstein, Gunjan Banerji",
+        "title": "U.S. Stocks Slip, Bonds Extend Selloff - The Wall Street Journal",
+        "description": "S&P 500 is on track to notch weekly losses; yield on 10-year Treasury note rises for sixth consecutive day",
+        "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-04-08-2022-11649403396",
+        "urlToImage": "https://images.wsj.net/im-520921/social",
+        "publishedAt": "2022-04-08T13:49:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": null,
+            "name": "Page Six"
+        },
+        "author": "Elana Fishman",
+        "title": "‘The Kardashians’ red carpet: See what stars wore to the Hulu premiere - Page Six",
+        "description": "See what Kim, Khloé and Kourtney Kardashian and Kris and Kylie Jenner wore to the red carpet premiere of their Hulu reality show, premiering April 14.",
+        "url": "https://pagesix.com/2022/04/08/the-kardashians-red-carpet-what-stars-wore-to-hulu-premiere/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/04/hulu-kardashians-premiere-kim-khloe-kris.jpg?quality=90&strip=all&w=1200",
+        "publishedAt": "2022-04-08T13:47:00Z",
+        "content": null
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Greg Evans",
+        "title": "Jimmy Kimmel Reports Marjorie Taylor Greene To Batman - Deadline",
+        "description": "UPDATE, with The View comments ABC’s Jimmy Kimmel isn’t going to let Rep. Marjorie Taylor Greene out-do him: After the Congresswoman who Kimmel calls a “snociopath” – that’s a combo snowflake and sociopath – reported the late night talker to Capitol Police ov…",
+        "url": "https://deadline.com/2022/04/jimmy-kimmel-marjorie-taylor-greene-batman-1234997153/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2022/04/kimmel.jpg?w=1024",
+        "publishedAt": "2022-04-08T13:39:00Z",
+        "content": "UPDATE, with The View comments ABC’s Jimmy Kimmel isn’t going to let Rep. Marjorie Taylor Greene out-do him: After the Congresswoman who Kimmel calls a “snociopath” – that’s a combo snowflake and soc… [+3823 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hollywood Life"
+        },
+        "author": "Cynthia Cook",
+        "title": "Chris Brown Confirms He Welcomed 3rd Baby With Diamond Brown: See Her Cute ‘3 Month’ Photo - HollywoodLife",
+        "description": "Chris Brown just confirmed that he is the father of Diamond Brown's baby, Lovely. He posted a sweet photo fo the little one to celebrate her three month birthday.",
+        "url": "https://hollywoodlife.com/2022/04/08/chris-brown-third-child-diamond-brown-lovely-photo/",
+        "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2022/04/chris-brown-third-baby-ss-ftr-1.jpg",
+        "publishedAt": "2022-04-08T13:34:47Z",
+        "content": "Chris Brown just confirmed that he is the father of Diamond Brown’s baby, Lovely. He posted a sweet photo fo the little one to celebrate her three month birthday.\r\nAfter rumors swirled about Chris Br… [+2094 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Jack Ewing",
+        "title": "Tesla Will Sell Its Cybertruck Next Year, Elon Musk Says - The New York Times",
+        "description": "Delays in producing the pickup have allowed rivals like Ford to beat Tesla to market with electric pickups.",
+        "url": "https://www.nytimes.com/2022/04/08/business/tesla-cybertruck-elon-musk.html",
+        "urlToImage": "https://static01.nyt.com/images/2022/04/08/world/08tesla-01/08tesla-01-facebookJumbo.jpg",
+        "publishedAt": "2022-04-08T13:20:42Z",
+        "content": "Teslas C.E.O. has a long history of promising products that materialize later than he said they would or not at all, but his timeline for the Cybertruck is more definite than the one he gave to inves… [+1279 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "Particle Physics Shock: Most Precise Ever Measurement of W Boson Mass Differs From Standard Model Prediction - SciTechDaily",
+        "description": "Most precise ever measurement of W boson mass to be in tension with the Standard Model. After 10 years of careful analysis and scrutiny, scientists of the CDF collaboration at the U.S. Department of Energy’s Fermi National Accelerator Laboratory announced on …",
+        "url": "https://scitechdaily.com/particle-physics-shock-most-precise-ever-measurement-of-w-boson-mass-differs-from-standard-model-prediction/",
+        "urlToImage": "https://scitechdaily.com/images/Particle-Collision-Neutrino-Concept.jpg",
+        "publishedAt": "2022-04-08T12:31:27Z",
+        "content": "Most precise ever measurement of W boson mass to be in tension with the Standard Model.\r\nAfter 10 years of careful analysis and scrutiny, scientists of the CDF collaboration at the U.S. Department of… [+8582 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Peter Schacknow",
+        "title": "Stocks making the biggest moves premarket: Biogen, Spirit, Robinhood and more - CNBC",
+        "description": "These are the stocks posting the largest moves before the bell.",
+        "url": "https://www.cnbc.com/2022/04/08/stocks-making-the-biggest-moves-premarket-biogen-spirit-robinhood-and-more.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106831762-16118534192021-01-28t165813z_294449866_rc24hl9jlwzy_rtrmadp_0_usa-stocks-open.jpeg?v=1611854525&w=1920&h=1080",
+        "publishedAt": "2022-04-08T12:01:36Z",
+        "content": "Check out the companies making headlines before the bell:\r\nBiogen (BIIB) Biogen fell 1% in premarket trading after the government announced that Medicare will limit coverage for Aduhelm, Biogen's Alz… [+2191 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Samsung Galaxy A53 5G Review: An Almost Perfect Midrange Phone - CNET",
+        "description": "Overall the Galaxy A53 5G gets a 👍Samsung Galaxy A53 5G: https://cnet.co/3Knuvep*CNET may get a commission from this offer The Galaxy A53 5G’s large screen,...",
+        "url": "https://www.youtube.com/watch?v=1HtKmmcxkKs",
+        "urlToImage": "https://i.ytimg.com/vi/1HtKmmcxkKs/hqdefault.jpg",
+        "publishedAt": "2022-04-08T12:00:01Z",
+        "content": null
+    }, {
+        "source": {
+            "id": null,
+            "name": "ESPN"
+        },
+        "author": "Jordan Reid, Matt Miller",
+        "title": "NFL draft 2022 buzz notebook, rumors and big questions - Updates on Kenny Pickett, Desmond Ridder, Travon Walker, Derek Stingley Jr. - ESPN",
+        "description": "Our draft analysts answer questions from readers then empty their notebooks and tell you what they're hearing.",
+        "url": "https://www.espn.com/nfl/insider/draft2022/insider/story/_/id/33690289/nfl-draft-2022-buzz-notebook-rumors-big-questions-updates-kenny-pickett-desmond-ridder-travon-walker-derek-stingley-jr",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0407%2Fr996535_1296x729_16%2D9.jpg",
+        "publishedAt": "2022-04-08T11:54:14Z",
+        "content": "The 2022 NFL draft is less than three weeks away, at which point we'll be evaluating the prospects each team selected in the first 32 picks of the class. Until then, our NFL draft analysts are hunker… [+14902 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "LORI HINNANT and MSTYSLAV CHERNOV Associated Press",
+        "title": "Doctors, crater disprove Russia's hospital airstrike misinfo - ABC News",
+        "description": "",
+        "url": "https://abcnews.go.com/International/wireStory/doctors-crater-disprove-ukraine-hospital-airstrike-misinfo-83955660",
+        "urlToImage": "https://s.abcnews.com/images/US/220408_vod_onlocation_hpMain_16x9_992.jpg",
+        "publishedAt": "2022-04-08T11:05:21Z",
+        "content": "LVIV, Ukraine -- A woman on the verge of giving birth with her leg flayed open by shrapnel. A shockwave that shattered the glass and ceramic lining of a room with medical waste. A nurse who suffered … [+9187 chars]"
+    }]
+}

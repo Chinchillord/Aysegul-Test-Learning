@@ -16,7 +16,7 @@ enum ArticleEndpoint: EndpointProtocol {
     case searchForArticles(searchFilter: String)
     
     var baseURL: String {
-        return "https://newsapi.org/v2"
+        return "http://localhost:8080"
     }
     
     var absoluteURL: String {

@@ -1,0 +1,245 @@
+{
+    "status": "ok",
+    "totalResults": 4314,
+    "articles": [{
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "JEFFREY COLLINS Associated Press",
+        "title": "Inmate asks judges to halt firing squad or electrocution",
+        "description": "A South Carolina inmate set to die either by a firing squad or in the electric chair later this month is asking the state Supreme Court to halt his execution",
+        "url": "https://abcnews.go.com/US/wireStory/inmate-asks-judges-halt-firing-squad-electrocution-83964046",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T18:04:56Z",
+        "content": "COLUMBIA, S.C. -- A South Carolina inmate set to die either by a firing squad or in the electric chair later this month is asking the state Supreme Court to halt his execution until judges can determ… [+3591 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "SIGAL RATNER-ARIAS Associated Press",
+        "title": "Camila Cabello finds joy in her roots for new studio album",
+        "description": "For her third studio album, Camila Cabello immersed herself in the Cuban and Mexican music she listened to while growing up",
+        "url": "https://abcnews.go.com/Entertainment/wireStory/camila-cabello-finds-joy-roots-studio-album-83964044",
+        "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_44dafa43edc347b2bd0543a56ccafed5_16x9_992.jpg",
+        "publishedAt": "2022-04-08T17:58:36Z",
+        "content": "NEW YORK -- Camila Cabello says she found joy in her roots while working on Familia, her new studio album. The pop singer and songwriter, born in Havana to a Cuban mother and a Mexican father, immers… [+4942 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "JAY REEVES Associated Press",
+        "title": "Muscogee return South nearly 200 years after forced removal",
+        "description": "Native Americans whose ancestors were forced out of the Southeast almost 200 years ago are back for a festival with a name that sums up its purpose: “We have come back.”",
+        "url": "https://abcnews.go.com/Travel/wireStory/muscogee-return-south-200-years-forced-removal-83963883",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T17:49:26Z",
+        "content": "OXFORD, Ala. -- Native Americans whose ancestors were forced out of the Southeast almost 200 years ago during a purge that cleared the way for white settlers returned Friday for a two-day festival wi… [+3592 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Libby Cathey, Armando Garcia",
+        "title": "Tearful Ketanji Brown Jackson celebrates with Biden at White House: 'We've made it'",
+        "description": "She spoke about soon becoming the first Black woman on the Supreme Court.",
+        "url": "https://abcnews.go.com/Politics/tearful-ketanji-brown-jackson-celebrates-biden-white-house/story?id=83958246",
+        "urlToImage": "https://s.abcnews.com/images/International/kbj-speech-rt-rc-220408_1649438729268_hpMain_16x9_992.jpg",
+        "publishedAt": "2022-04-08T17:49:02Z",
+        "content": "President Joe Biden on Friday celebrated Judge Ketanji Brown Jackson's historic confirmation to the Supreme Court at the White House, with a tearful Jackson delivering a powerful message in persevera… [+8118 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "SAM MEDNICK Associated Press",
+        "title": "Suspected extremist attack kills 16 soldiers in Burkina Faso",
+        "description": "The Burkina Faso military says that an attack by suspected Islamic extremist rebels on a military unit in Burkina Faso has killed at least 16 security forces and injured many others",
+        "url": "https://abcnews.go.com/International/wireStory/suspected-extremist-attack-kills-16-soldiers-burkina-faso-83963323",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T17:32:22Z",
+        "content": "OUAGADOUGOU, Burkina Faso -- An attack by suspected Islamic extremist rebels on a military unit in Burkina Faso Friday has killed at least 16 security forces and injured many others, the army announc… [+1564 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "DANICA KIRKA Associated Press",
+        "title": "UK teacher's killer gets at least 36 years behind bars",
+        "description": "A British judge has sentenced a sexual predator to at least 36 years in prison for the murder of Sabina Nessa, a primary school teacher killed as she walked to meet a friend in London",
+        "url": "https://abcnews.go.com/International/wireStory/uk-teachers-killer-36-years-bars-83962874",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T17:15:41Z",
+        "content": "LONDON -- A British judge on Friday sentenced a sexual predator to at least 36 years in prison for the murder of Sabina Nessa, a primary school teacher killed as she walked to meet a friend in London… [+1568 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Spain bans harassment of women entering abortion clinics",
+        "description": "Spain is awaiting the publication in coming days of a new law banning the intimidation or harassment of women entering abortion clinics",
+        "url": "https://abcnews.go.com/Health/wireStory/spain-bans-harassment-women-entering-abortion-clinics-83962461",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T17:05:58Z",
+        "content": "MADRID -- Spain is awaiting the publication in coming days of a new law banning the intimidation or harassment of women entering abortion clinics.\r\nThe law comes into force when it is published in th… [+1111 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Chairman of Russian metals company calls for Bucha probe",
+        "description": "The board chairman of Russian metals company Rusal has called for an investigation into events in the Kyiv suburb of Bucha, where Ukrainian officials say Russian troops killed civilians",
+        "url": "https://abcnews.go.com/International/wireStory/chairman-russian-metals-company-calls-bucha-probe-83962460",
+        "urlToImage": "https://s.abcnews.com/images/International/WireAP_70cb20fbd2554f168dcd47009844538e_16x9_992.jpg",
+        "publishedAt": "2022-04-08T17:05:53Z",
+        "content": "LONDON -- The board chairman of Russian metals company Rusal has called for an investigation into events in the Kyiv suburb of Bucha, where Ukrainian officials say Russian troops killed civilians.\r\nR… [+1405 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Philip Gennotte",
+        "title": "One Step Closer to Completion: Watch the Disney Wish’s Epic Journey to the North Sea!",
+        "description": "Last week, we celebrated the latest milestone, which means we are one step closer to the Disney Wish’s delivery. Today, I’m thrilled to take you on the journey from the Meyer Werft shipyard in Germany to the North Sea, where the Disney Wish entered open water…",
+        "url": "https://disneyparks.disney.go.com/blog/2022/04/one-step-closer-to-completion-watch-the-disney-wishs-epic-journey-to-the-north-sea/",
+        "urlToImage": "https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2022/04/2u3ytg87ogi24t24.jpg",
+        "publishedAt": "2022-04-08T17:00:59Z",
+        "content": "Hallo aus Deutschland! Last week, we celebrated the latest milestone, which means we are one step closer to the Disney Wishs delivery. Today, Im thrilled to take you on the journey from the Meyer Wer… [+1441 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "FAA seeks biggest fines yet against 2 unruly passengers",
+        "description": "The price is going up for disrupting airline flights",
+        "url": "https://abcnews.go.com/Business/wireStory/faa-seeks-biggest-fines-unruly-passengers-83962286",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T16:50:11Z",
+        "content": "WASHINGTON -- The Federal Aviation Administration said Friday that it it seeking the largest fines yet for passengers who disrupt flights after two incidents that occurred on airliners last summer.\r\n… [+1012 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "MAURICIO SAVARESE Associated Press",
+        "title": "Brazil's Lula taps former rival as his pick for running mate",
+        "description": "Former Brazilian President Luiz Inácio Lula da Silva has chosen a past rival to be his running mate in October’s election",
+        "url": "https://abcnews.go.com/International/wireStory/brazils-lula-taps-rival-pick-running-mate-83961712",
+        "urlToImage": "https://s.abcnews.com/images/International/WireAP_180a743641ad4681811bf2f4491db691_16x9_992.jpg",
+        "publishedAt": "2022-04-08T16:27:10Z",
+        "content": "SAO PAULO -- Former Brazilian President Luiz Inácio Lula da Silva said on Friday that he has chosen a past rival to be his running mate in October's election. The pick appears to be aimed at improvin… [+3589 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "MARK KENNEDY AP Entertainment Writer",
+        "title": "Celebrities go online to voice support for Ukraine",
+        "description": "A group of inter-generational stars from film, TV, sports and music — including Bruce Springsteen, Hugh Jackman, Elton John and Jon Bon Jovi, Jonas Brothers and Billie Eilish  — have signed up for a social media campaign to show support for Ukraine",
+        "url": "https://abcnews.go.com/Entertainment/wireStory/celebrities-online-voice-support-ukraine-83961530",
+        "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_cdaf2802473143e6915a6e58dc6c6e2b_16x9_992.jpg",
+        "publishedAt": "2022-04-08T16:23:23Z",
+        "content": "NEW YORK -- A group of inter-generational stars from film, TV, sports and music including Bruce Springsteen, Hugh Jackman, Elton John, Jon Bon Jovi, Jonas Brothers and Billie Eilish have signed up fo… [+1636 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "TOM HAYS Associated Press",
+        "title": "Ex-Goldman Sachs banker convicted in plot to loot 1MDB fund",
+        "description": "A former Goldman Sachs banker has been convicted on corruption charges accusing him of participating in a $4.5 billion scheme to loot the Malaysian state investment fund, 1MDB",
+        "url": "https://abcnews.go.com/Business/wireStory/goldman-sachs-banker-convicted-plot-loot-1mdb-fund-83961430",
+        "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_aa66b7c8f4a14853b9a72773ef3d2d71_16x9_992.jpg",
+        "publishedAt": "2022-04-08T16:22:42Z",
+        "content": "NEW YORK -- A former Goldman Sachs banker was convicted Friday of bribery and other corruption charges accusing him of participating in a $4.5 billion scheme to ransack the Malaysian state investment… [+3749 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Musk says Tesla will build vehicle designed to be a robotaxi",
+        "description": "Tesla CEO Elon Musk says the company will build an electric vehicle dedicated for use as a robotaxi",
+        "url": "https://abcnews.go.com/Business/wireStory/musk-tesla-build-vehicle-designed-robotaxi-83961326",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T16:17:11Z",
+        "content": "AUSTIN, Texas -- Tesla will build a vehicle dedicated for use as a robotaxi, and it will start making three new vehicles next year, CEO Elon Musk told fans at a party celebrating the opening of a Tex… [+1735 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Musk says Tesla will build vehicle designed to be a robotaxi",
+        "description": "Tesla CEO Elon Musk says the company will build an electric vehicle dedicated for use as a robotaxi",
+        "url": "https://abcnews.go.com/US/wireStory/musk-tesla-build-vehicle-designed-robotaxi-83961322",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T16:16:41Z",
+        "content": "AUSTIN, Texas -- Tesla will build a vehicle dedicated for use as a robotaxi, and it will start making three new vehicles next year, CEO Elon Musk told fans at a party celebrating the opening of a Tex… [+1735 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Kelsey Lynch",
+        "title": "Immerse Yourself in Disney Magic as ‘Disneyland Forever’ Fireworks Spectacular Returns to Disneyland Park April 22",
+        "description": "Is anyone else counting down the days until we “ignite the night” once again at the Disneyland Resort, with the return of three beloved nighttime spectaculars? T-minus fourteen days!",
+        "url": "https://disneyparks.disney.go.com/blog/2022/04/immerse-yourself-in-disney-magic-as-disneyland-forever-fireworks-spectacular-returns-to-disneyland-park-april-22/",
+        "urlToImage": "https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2022/04/w8u4thi489gu35herf.jpg",
+        "publishedAt": "2022-04-08T16:12:17Z",
+        "content": "Is anyone else counting down the days until we ignite the night once again at the Disneyland Resort, with the return of three beloved nighttime spectaculars? T-minus fourteen days!\r\nIn addition to Wo… [+2350 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "ELAINE GANLEY Associated Press",
+        "title": "Macron confident as far-right rival closes in ahead of vote",
+        "description": "President Emmanuel Macron says he has no fear of losing France’s presidential election despite far-right rival Marine Le Pen narrowing the gap in opinion polls days before the first-round vote",
+        "url": "https://abcnews.go.com/International/wireStory/macron-confident-rival-closes-ahead-vote-83961222",
+        "urlToImage": "https://s.abcnews.com/images/International/WireAP_0970722ca20b4a2a836725d9466316fa_16x9_992.jpg",
+        "publishedAt": "2022-04-08T16:10:00Z",
+        "content": "PARIS -- President Emmanuel Macron said Friday he has no fear of losing Frances presidential election, despite far-right rival Marine Le Pen narrowing the gap in opinion polls days before the first-r… [+3597 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Libby Cathey, Armando Garcia",
+        "title": "Biden to celebrate Ketanji Brown Jackson at White House amid COVID concerns",
+        "description": "President Joe Biden and Supreme Court Justice-designate Ketanji Brown Jackson will make remarks at the White House South Lawn event Friday at 12:15 p.m.",
+        "url": "https://abcnews.go.com/Politics/biden-celebrate-ketanji-brown-jackson-white-house-amid/story?id=83958246",
+        "urlToImage": "https://s.abcnews.com/images/International/biden-kbj-gty-rc-220407_1649355118816_hpMain_16x9_992.jpg",
+        "publishedAt": "2022-04-08T16:03:51Z",
+        "content": "President Joe Biden will celebrate Judge Ketanji Brown Jackson's confirmation to the Supreme Court at a large-scale event at the White House on Friday amid new concerns about COVID spreading among Wa… [+5021 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "TOM HAYS Associated Press",
+        "title": "Ex-Goldman Sachs banker convicted in plot to loot 1MDB fund",
+        "description": "A former Goldman Sachs banker has been convicted on corruption charges accusing him of participating in a $4.5 billion scheme to loot the Malaysian state investment fund, 1MDB",
+        "url": "https://abcnews.go.com/Entertainment/wireStory/goldman-sachs-banker-convicted-plot-loot-1mdb-fund-83960766",
+        "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_82c373f9e99f4776a040fb18e6a0f080_16x9_992.jpg",
+        "publishedAt": "2022-04-08T16:00:56Z",
+        "content": "NEW YORK -- A former Goldman Sachs banker was convicted on Friday on bribery and other corruption charges accusing him of participating in a $4.5 billion scheme to ransack the Malaysian state investm… [+3752 chars]"
+    }, {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "U.S. jury convicts ex-Goldman Sachs banker on all counts in $4.5 billion scheme to loot Malaysian fund 1MDB",
+        "description": "U.S. jury convicts ex-Goldman Sachs banker on all counts in $4.5 billion scheme to loot Malaysian fund 1MDB",
+        "url": "https://abcnews.go.com/Entertainment/wireStory/us-jury-convicts-goldman-sachs-banker-counts-45-83960765",
+        "urlToImage": "null",
+        "publishedAt": "2022-04-08T15:52:10Z",
+        "content": "U.S. jury convicts ex-Goldman Sachs banker on all counts in $4.5 billion scheme to loot Malaysian fund 1MDB"
+    }]
+}
