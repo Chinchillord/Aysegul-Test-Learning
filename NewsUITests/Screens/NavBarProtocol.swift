@@ -10,6 +10,7 @@ import Foundation
 import XCTest
 
 protocol HasNavBar {
+    
 }
 
 extension HasNavBar {
